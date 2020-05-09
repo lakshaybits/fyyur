@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/mnt/c/Users/ASUS/nano/FSND/projects/01_fyyur/starter_code/env"
+VIRTUAL_ENV="/mnt/c/Users/ASUS/fyyur/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

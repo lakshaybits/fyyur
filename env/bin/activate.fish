@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/mnt/c/Users/ASUS/nano/FSND/projects/01_fyyur/starter_code/env"
+set -gx VIRTUAL_ENV "/mnt/c/Users/ASUS/fyyur/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

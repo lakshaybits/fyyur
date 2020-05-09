@@ -1,4 +1,4 @@
-#!/mnt/c/Users/ASUS/nano/FSND/projects/01_fyyur/starter_code/env/bin/python
+#!/mnt/c/Users/ASUS/fyyur/env/bin/python
 
 import sys
 import getopt
